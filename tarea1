@@ -1,0 +1,20 @@
+#include<stdio.h>
+#include<stdlib.h>
+
+int main() {
+float cent;//declaracion de variables
+ float fare;
+ printf ("°C =?\n"); //titulo
+  
+cent= 5; //aqui va el valor de lo que quieres convertir 
+cent= cent*9/5;//formula
+fare= cent+32;
+ printf ("%f\n",fare);//imprimir en pantalla
+ printf ("    x  \n"); 
+ printf ("   x x  \n");
+ printf ("  x x x     \n");
+ printf (" x x x x   \n");
+ printf ("x x x x x   \n");
+retur 0
+
+}
